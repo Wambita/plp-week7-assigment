@@ -13,7 +13,7 @@ pip install pandas matplotlib scikit-learn
 1. Save both files in the same directory
 2. Run the Python script:
 ```bash
-python simple_analysis.py
+python main.py
 ```
 
 ## Key Features
